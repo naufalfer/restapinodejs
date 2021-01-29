@@ -1,0 +1,23 @@
+{
+  "name": "restapinodejs",
+  "version": "1.0.0",
+  "description": "REST API Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naufalfer/restapinodejs.git"
+  },
+  "keywords": [
+    "restapi",
+    "nodejs"
+  ],
+  "author": "Naufal F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naufalfer/restapinodejs/issues"
+  },
+  "homepage": "https://github.com/naufalfer/restapinodejs#readme"
+}
